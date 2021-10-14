@@ -10082,9 +10082,6 @@ new _vuex.default.Store({
         key: 'user',
         data: payload });
 
-    },
-    TOKEN_DATA: function TOKEN_DATA(state, result) {
-
     } },
 
 

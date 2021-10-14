@@ -16,9 +16,6 @@ export default new Vuex.Store({
 			    key: 'user',
 			    data: payload,
 			    });
-		},
-		TOKEN_DATA(state, result) {
-
 		}
 	},
 
